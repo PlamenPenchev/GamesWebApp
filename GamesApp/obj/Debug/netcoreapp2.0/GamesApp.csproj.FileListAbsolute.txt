@@ -1,0 +1,12 @@
+c:\users\punked\source\repos\GamesApp\GamesApp\bin\Debug\netcoreapp2.0\GamesApp.deps.json
+c:\users\punked\source\repos\GamesApp\GamesApp\bin\Debug\netcoreapp2.0\GamesApp.runtimeconfig.json
+c:\users\punked\source\repos\GamesApp\GamesApp\bin\Debug\netcoreapp2.0\GamesApp.runtimeconfig.dev.json
+c:\users\punked\source\repos\GamesApp\GamesApp\bin\Debug\netcoreapp2.0\GamesApp.dll
+c:\users\punked\source\repos\GamesApp\GamesApp\obj\Debug\netcoreapp2.0\GamesApp.csprojResolveAssemblyReference.cache
+c:\users\punked\source\repos\GamesApp\GamesApp\obj\Debug\netcoreapp2.0\GamesApp.csproj.CoreCompileInputs.cache
+c:\users\punked\source\repos\GamesApp\GamesApp\obj\Debug\netcoreapp2.0\GamesApp.AssemblyInfoInputs.cache
+c:\users\punked\source\repos\GamesApp\GamesApp\obj\Debug\netcoreapp2.0\GamesApp.AssemblyInfo.cs
+c:\users\punked\source\repos\GamesApp\GamesApp\bin\Debug\netcoreapp2.0\GamesApp.pdb
+c:\users\punked\source\repos\GamesApp\GamesApp\obj\Debug\netcoreapp2.0\GamesApp.dll
+c:\users\punked\source\repos\GamesApp\GamesApp\obj\Debug\netcoreapp2.0\GamesApp.pdb
+C:\Users\Punked\source\repos\GamesApp\GamesApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
